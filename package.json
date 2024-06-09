@@ -1,0 +1,26 @@
+{
+    "name": "com.soggyinkgames.package-soggyterrain",
+    "version": "1.0.0",
+    "displayName": "soggy terrains",
+    "description": "a package full of soggy terrains",
+    "unity": "2022.2",
+    "dependencies": {
+        "com.unity.terrain-tools": "5.0.4",
+        "com.unity.render-pipelines.universal": "14.0.7"
+    },
+    "documentationUrl": "https://example.com/",
+    "changelogUrl": "https://example.com/changelog.html",
+    "licensesUrl": "https://example.com/licensing.html",
+    "author": {
+        "name": "SOGGY INK GAMES",
+        "email": "soggyinkgames@gmail.com",
+        "url": "https://www.soggyinkgames.com"
+    },
+    "samples": [
+        {
+            "displayName": "Soggy Terrain",
+            "description": "a package of real world terrains built by soggy ink games",
+            "path": "Samples~/SoggyTerrain"
+        }
+    ]
+}

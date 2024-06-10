@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/soggyinkgames/package-soggyterrain/compare/v1.0.0...v1.0.1) (2024-06-10)
+
+
+### Bug Fixes
+
+* add commit message warning ([3a39e8f](https://github.com/soggyinkgames/package-soggyterrain/commit/3a39e8f844ade928c233ad941bff2d77eb23f5e2))
+
 # 1.0.0 (2024-06-10)
 
 

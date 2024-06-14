@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/soggyinkgames/package-soggyterrain/compare/v1.0.1...v1.0.2) (2024-06-14)
+
+
+### Bug Fixes
+
+* **SW-13:** testing new version updates ([df274ca](https://github.com/soggyinkgames/package-soggyterrain/commit/df274ca204291355be82f138ac08eeba224ca884))
+
 ## [1.0.1](https://github.com/soggyinkgames/package-soggyterrain/compare/v1.0.0...v1.0.1) (2024-06-10)
 
 

@@ -23,9 +23,9 @@
             "path": "Samples~/SoggyTerrains"
         },
         {
-            "displayName": "Soggy Terain Geirangerfjord",
+            "displayName": "Soggy Terrain Geirangerfjord",
             "description": "a package of real world terrains assets built by soggy ink games",
-            "path": "Samples~/Soggy Terain Geirangerfjord"
+            "path": "Samples~/SoggyTerrainGeirangerfjord"
         }
     ]
 }

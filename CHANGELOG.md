@@ -1,3 +1,12 @@
+## [1.0.4](https://github.com/soggyinkgames/package-soggyterrain/compare/v1.0.3...v1.0.4) (2024-06-15)
+
+
+### Bug Fixes
+
+* move terrain assets to soggy terrains sample ([f8a635c](https://github.com/soggyinkgames/package-soggyterrain/commit/f8a635cd029b7bca381a203f49a54c703586bcce))
+* spelling of sample folder to match path ([bfeb8ba](https://github.com/soggyinkgames/package-soggyterrain/commit/bfeb8bae78ef7bf54b01b35110025d3c33fe476e))
+* **SW-13:** terrain package should give access to terrain assets ([b92f762](https://github.com/soggyinkgames/package-soggyterrain/commit/b92f7620094e601f118d3d7062eb4850c136a7df))
+
 ## [1.0.3](https://github.com/soggyinkgames/package-soggyterrain/compare/v1.0.2...v1.0.3) (2024-06-15)
 
 

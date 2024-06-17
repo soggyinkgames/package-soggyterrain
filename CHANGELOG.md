@@ -1,3 +1,22 @@
+# [1.1.0](https://github.com/soggyinkgames/package-soggyterrain/compare/v1.0.4...v1.1.0) (2024-06-17)
+
+
+### Bug Fixes
+
+* add missing textures ([50a5fab](https://github.com/soggyinkgames/package-soggyterrain/commit/50a5fab48a924727ce1a339892126d0f086821a0))
+* cleanup and restructure with new terrains ([0a06bb9](https://github.com/soggyinkgames/package-soggyterrain/commit/0a06bb97927c24009ef7615d949ab3a5e5ed5e57))
+* move new soggy terrain folders from builder, terrains, textures, scenes ([c47c5e8](https://github.com/soggyinkgames/package-soggyterrain/commit/c47c5e8844821aa69c662f238730217d567f48d7))
+* save scene ([40ffcea](https://github.com/soggyinkgames/package-soggyterrain/commit/40ffcea1a79ea2b15d4f6c07982a6fa1b56e24d0))
+* save scene with three terrains ([8938fe7](https://github.com/soggyinkgames/package-soggyterrain/commit/8938fe7c56a2ed54d0d4335757ae0ac7a1b7916a))
+* save terrain layer palette data to terrain asset ([b335201](https://github.com/soggyinkgames/package-soggyterrain/commit/b33520128193a7d2b908bb8abf799f1518324db2))
+* update geirangerfjord prefab layer pointers to new textures ([7b683e9](https://github.com/soggyinkgames/package-soggyterrain/commit/7b683e9164b112eb305d39eb05e7f3c5d3fb9e10))
+
+
+### Features
+
+* add mtfuji folder, heightmap, terrain prefab, terrain data ([87aac54](https://github.com/soggyinkgames/package-soggyterrain/commit/87aac5485934b6c6cb24aec8e63c5970983c238e))
+* add soggy ulury folder, redrock layer palette, uluru terrain asset, heightmap and prefab ([30253eb](https://github.com/soggyinkgames/package-soggyterrain/commit/30253ebb4b4acb21b749aabd183281116b2b634b))
+
 ## [1.0.4](https://github.com/soggyinkgames/package-soggyterrain/compare/v1.0.3...v1.0.4) (2024-06-15)
 
 

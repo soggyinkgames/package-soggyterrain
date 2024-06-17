@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/soggyinkgames/package-soggyterrain/compare/v1.1.0...v1.1.1) (2024-06-17)
+
+
+### Bug Fixes
+
+* **SW-15:** SAVE TEXTURE TO LAYER, MOVE TERRAIN to be equidistant with other terrains in scene ([7f80cb1](https://github.com/soggyinkgames/package-soggyterrain/commit/7f80cb1d166c927aef8df28f454698c7687cbcd0))
+
 # [1.1.0](https://github.com/soggyinkgames/package-soggyterrain/compare/v1.0.4...v1.1.0) (2024-06-17)
 
 
